@@ -1,7 +1,7 @@
 ﻿#### 一、目录说明
 1. **可以选择打开QWidgetDemo.pro一次性编译所有的，也可以进入到目录下打开pro进行编译**
 2. **如果发现有些子项目没有加载请打开QWidgetDemo.pro仔细看里面的注释**
-3. **编译好的可执行文件在源码下的bin目录**
+3. **编译好的可执行文件在源码同级目录下的bin目录**
 
 | 编号 | 文件夹 | 描述 |
 | ------ | ------ | ------ |
@@ -40,8 +40,11 @@
 | 33 | echartgauge | echart仪表盘含交互支持webkit及webengine |
 | 34 | ffmpegdemo | 视频流播放ffmpeg内核 |
 | 35 | vlcdemo | 视频流播放vlc内核 |
-| 36 | designer | QtDesigner4源码 |
-| 37 | netserver | 网络中转服务器 |
+| 36 | key | 秘钥生成器 |
+| 37 | live | 程序守护进程 |
+| 38 | designer | QtDesigner4源码 |
+| 39 | netserver | 网络中转服务器 |
+| 40 | mpvdemo | 视频流播放mpv内核 |
 
 ### 二、学习群
 1. **Qt交流大会群 853086607(雨田哥)**
@@ -86,5 +89,7 @@
 ![avatar](https://github.com/feiyangqingyun/QWidgetDemo/raw/master/0snap/imageswitch.gif)
 ![avatar](https://github.com/feiyangqingyun/QWidgetDemo/raw/master/0snap/ffmpegdemo.png)
 ![avatar](https://github.com/feiyangqingyun/QWidgetDemo/raw/master/0snap/vlcdemo.png)
+![avatar](https://github.com/feiyangqingyun/QWidgetDemo/raw/master/0snap/key.png)
+![avatar](https://github.com/feiyangqingyun/QWidgetDemo/raw/master/0snap/live.png)
 ![avatar](https://github.com/feiyangqingyun/QWidgetDemo/raw/master/0snap/netserver.jpg)
 ![avatar](https://github.com/feiyangqingyun/QWidgetDemo/raw/master/0snap/designer.png)
